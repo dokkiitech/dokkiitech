@@ -1,16 +1,37 @@
-## Hi there 👋
+# Stats 🎉
+<p align="center">
+    <a href="https://github.com/dokkiitech">
+        <img height=200 align="center" src="https://git-hub-readme-stats-l2xb.vercel.app/api?username=dokkiitech&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/dokkiitech">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokkiitech&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&hide=css,html,vue,scss,ejs"/>
+    </a>
+</p>
 
-<!--
-**dokkiitech/dokkiitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills ☄️
+<p align="center">
+    <h3 align="center">✨ Language ✨</h3>
+    <p  align="center">
+        <a herf="https://skillicons.dev">
+            <img height=200 src="https://skillicons.dev/icons?i=java,python,nextjs&perline=6&theme=dark">
+        </a>
+    </p>
+    <h3 align="center">Clouds</h3>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img height=100 src="https://skillicons.dev/icons?i=aws,cloudflare,firebase&theme=dark">
+        </a>
+    </p>
+    <h3 align="center">Editor / IDE</h3>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img height=100 src="https://skillicons.dev/icons?i=idea,vscode,eclipse,notion&theme=dark">
+        </a>
+    </p>
+    <h3 align="center">OS</h3>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img height=100 src="https://skillicons.dev/icons?i=linux,apple,windows,kali,redhat&theme=dark">
+        </a>
+    </p>
+</p>
