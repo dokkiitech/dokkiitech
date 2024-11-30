@@ -31,7 +31,7 @@
     <h3 align="center">OS</h3>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img height=100 src="https://skillicons.dev/icons?i=linux,apple,windows,kali,redhat&theme=dark">
+            <img height=100 src="https://skillicons.dev/icons?i=apple,windows,kali,redhat,linux&theme=dark">
         </a>
     </p>
 </p>
