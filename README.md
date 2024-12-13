@@ -13,7 +13,7 @@
     <h3 align="center">✨ Language ✨</h3>
     <p  align="center">
         <a herf="https://skillicons.dev">
-            <img height=200 src="https://skillicons.dev/icons?i=java,python,nextjs&perline=6&theme=dark">
+            <img height=200 src="https://skillicons.dev/icons?i=java,python,nextjs,supabase&perline=6&theme=dark">
         </a>
     </p>
     <h3 align="center">Clouds</h3>
