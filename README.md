@@ -1,3 +1,5 @@
+<h1 align="center">Special thanks: <a href="https://github.com/naoido">naoido</a>✌️.</h1>
+
 # Stats 🎉
 <p align="center">
     <a href="https://github.com/dokkiitech">
