@@ -34,7 +34,7 @@
 ### <p align="center">☁️ Cloud Platforms</p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase&theme=dark" height=100>
+        <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,jenkins&theme=dark" height=100>
     </a>
 </p>
 
@@ -48,7 +48,7 @@
 ### <p align="center">🖥️ Operating Systems</p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=apple,windows,kali,redhat,linux&theme=dark" height=100>
+        <img src="https://skillicons.dev/icons?i=apple,windows,kali,linux&theme=dark" height=100>
     </a>
 </p>
 
