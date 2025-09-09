@@ -33,12 +33,12 @@
 
 ### <p align="center">✨ Languages</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,terraform,typescript,nextjs&perline=6&theme=dark" height=100 />
+  <img src="https://skillicons.dev/icons?i=java,python,go,typescript,nextjs&perline=6&theme=dark" height=100 />
 </p>
 
 ### <p align="center">☁️ Cloud Platforms</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,supabase,grafana,zabbix,jenkins&theme=dark" height=100 />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,supabase,grafana,terraform,jenkins&theme=dark" height=100 />
 </p>
 
 ### <p align="center">💻 Editor / IDE</p>
