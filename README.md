@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/dokkiitech">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=dokkiitech&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats" />
+    <img height=180 src="githubrandmestats-git-main-dokkiitechs-projects.vercel.app/api?username=dokkiitech&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats" />
   </a>
 </p>
 <p align="center">
