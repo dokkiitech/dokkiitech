@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/dokkiitech">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokkiitech&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&hide=css,html,vue,scss,ejs&layout=compact&hide_border=true" />
+    <img height=180 src="https://githubrandmestats-git-main-dokkiitechs-projects.vercel.app/api/top-langs/?username=dokkiitech&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&hide=css,html,vue,scss,ejs&layout=compact&hide_border=true" />
   </a>
 </p>
 <p align="center">
