@@ -66,15 +66,15 @@ iac/  ci-cd/  serverless/  networking/  nextjs/  automation/
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=dokkiitech&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=dokkiitech&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats&disable_animations=true" />
     </td>
     <td align="center" valign="top">
-      <img height="170" src="https://githubrandmestats-git-main-dokkiitechs-projects.vercel.app/api/top-langs/?username=dokkiitech&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=css,html,vue,scss,ejs&layout=compact&hide_border=true" />
+      <img height="170" src="https://githubrandmestats-git-main-dokkiitechs-projects.vercel.app/api/top-langs/?username=dokkiitech&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=css,html,vue,scss,ejs&layout=compact&hide_border=true&disable_animations=true" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img height="170" src="https://streak-stats.demolab.com/?user=dokkiitech&theme=tokyonight&hide_border=true" />
+      <img height="170" src="https://streak-stats.demolab.com/?user=dokkiitech&theme=tokyonight&hide_border=true&disable_animations=true" />
     </td>
     <td align="center" valign="top">
       <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dokkiitech&theme=github_dark&utcOffset=9" />
