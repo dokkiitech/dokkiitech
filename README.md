@@ -10,10 +10,6 @@
 ```console
 dokkiitech — infrastructure / Backend Engineer
 
-$ cat profile.txt
-AWS と Cloudflare を Terraform で全部コード管理して、
-SaaS・業務ツール・ゲームサーバーまで自分で作って自分で運用してる。
-「手で触った設定は、いつか必ず忘れる」が信条。
 
 $ ls focus/
 iac/  ci-cd/  serverless/  networking/  nextjs/  automation/
