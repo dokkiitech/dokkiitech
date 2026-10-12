@@ -8,8 +8,7 @@
 ```
 
 ```console
-$ whoami
-dokkiitech — インフラ / バックエンド寄りの個人開発者
+dokkiitech — infrastructure / Backend Engineer
 
 $ cat profile.txt
 AWS と Cloudflare を Terraform で全部コード管理して、
