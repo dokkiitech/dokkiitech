@@ -93,5 +93,5 @@ iac/  ci-cd/  serverless/  networking/  nextjs/  automation/
 </p>
 
 <p align="center">
-  <a href="https://dokkiitech.com/contact">お問い合わせはこちら →</a>
+  <a href="https://www.dokkiitech.com/appointment">お問い合わせはこちら →</a>
 </p>
